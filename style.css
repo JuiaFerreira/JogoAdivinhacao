@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+    padding: 2;
+	font-family:Comic Sans MS;
+    color: #58488A;
+    flex-wrap: nowrap;
+    text-align: center;
+    background: url(hello-kitty.jpg) fixed no-repeat;
+	background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.button1{
+	background-color:#58488A;
+	color:#F7D3CD;
+	flex-wrap:wrap;
+	border-radius: 15px;
+	border-color:#58488A;
+	padding: 12px;
+	font-size:22;
+	font-family:Comic Sans MS;
+}
+
+.button2{
+	background-color:#58488A;
+	color:#F7D3CD;
+	flex-wrap:wrap;
+	border-radius: 15px;
+	border-color:#58488A;
+	padding: 11px;
+	font-size:22;
+	font-family:Comic Sans MS;
+}
+
+.barrap{
+	background-color:#DBCAC9;
+	flex-wrap:wrap;
+	border-radius:10px;
+	border-color:#D4CDD3;
+	padding: 12px;
+	width:108px;
+	font-family:Comic Sans MS;
+}
+
+section{
+	background-color:#D4CDD3;
+	color: #EB4770;
+	flex-wrap:wrap;
+	border-radius:18px;
+	border-color:#D4CDD3;
+	padding: 53px;
+	width:210px;
+	align-items:center;
+	justify-content: center;
+	display: flex;
+}
